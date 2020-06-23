@@ -8,7 +8,7 @@
   </mask>
   <g mask="url(#a)">
     <path d="M0 0h55v20H0z" fill="#555"/>
-    <path d="M55 0h67v20H55z" fill="#d7c826"/>
+    <path d="M55 0h67v20H55z" fill="#6bcaba"/>
     <path d="M0 0h122v20H0z" fill="url(#b)"/>
   </g>
   <clipPath id="Clip_1">
@@ -24,7 +24,7 @@
   <g fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11" text-anchor="middle">
     <text fill="#010101" fill-opacity=".3" x="34.5" y="15">FINOS</text>
     <text x="34.5" y="14">FINOS</text>
-    <text fill="#010101" fill-opacity=".3" x="87.5" y="15">incubating</text>
-    <text x="87.5" y="14">incubating</text>
+    <text fill="#010101" fill-opacity=".3" x="87.5" y="15">forming</text>
+    <text x="87.5" y="14">forming</text>
   </g>
 </svg>
